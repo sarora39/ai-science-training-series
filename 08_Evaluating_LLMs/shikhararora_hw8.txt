@@ -1,0 +1,23 @@
+Homework 8: What do you think is a particularly good use case for LLMs for science? How would you evaluate it? Your answer does not need to be in paragraphs. When you submit your homework form, you can link to a file in your Github repo where you wrote your answer.
+
+The field of artificial intelligence is on the cusp of a major breakthrough, one that will change the way we understand nature and how we approach scientific problems. In the past, new devices and experiments were designed using human intuition, such as Nikola Tesla's design of the three-phase AC system. Now, computers are being used to augment scientists' design capabilities, particularly in unintuitive fields such as quantum physics where there are numerous possible experiment configurations. Using computer-designed quantum experiments (e.g. Pytheus [1]) can overcome these challenges and lead to more efficient and effective experimental design. Since Appel's resolution of the 'four color problem' (important in graph theory [2]) in 1976, we have come a long way in challenging the fact that humans have the best capability for understanding logical structures. While we await a new mathematical breakthrough authored Gemini [3], here are a few simple use cases of LLM's for the pragmatic:
+
+1. Reading Research Papers: This is like the keywords feature on steroids. Think of what insights we can get from positional embedding where instead of words in a vocabulary there are relevant articles or important data points
+2. Doing Research: From data-driven inquiries like climate science to hypothesis-based investigations such as material characterisations; LLMs facilitate effortless research through prompts and discussions, emphasizing the importance of asking the right questions.
+3. Science Education: LLMs enhance outreach by tailoring explanations and ethical implications to diverse audiences, ensuring accessibility in science education.
+
+Evaluating the effectiveness of LLMs involves various benchmarks and methodologies, including:
+
+1. Quality and Correctness: Benchmarks like HELM [4] and human expert evaluation ensure the accuracy and reliability of LLM-generated content.
+2. Relevance to Research Goals: Assessing alignment with research objectives and contributions to scientific advancement.
+3. Novelty and Creativity: Gauging the novelty and creativity of generated hypotheses or insights.
+4. Feasibility and Testability: Evaluating the feasibility and testability of hypotheses in experimental contexts.
+5. Impact on Research Outcomes: Tracking the impact of LLM-generated insights on research progress and outcomes.
+
+By employing these evaluation methods, researchers can effectively gauge the utility and reliability of LLMs in scientific endeavors, facilitating informed decision-making and progress in scientific research.
+
+[1] https://arxiv.org/abs/2210.09980
+[2] https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-82/issue-5/Every-planar-map-is-four-colorable/bams/1183538218.full
+[3] https://arxiv.org/abs/2312.11805
+[4] https://arxiv.org/abs/2211.09110
+
